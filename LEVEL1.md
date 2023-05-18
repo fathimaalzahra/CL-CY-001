@@ -3,14 +3,19 @@
 Learn the basics of javascript and create a small webpage which takes the names and marks of ten students and calculates the 
  - Percentage of each student
  - Class average
- - Rankings of the students https://www.w3schools.com/js/js_intro.asp
+ - Rankings of the students
+ 
+ https://www.w3schools.com/js/js_intro.asp
+ 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ## Task 2 - Async JS
 
 Learn about asynchronous javascript and implement a small callback based program that displays the steps of a food recipe (consisting of at least 10 steps).
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing
+
 https://www.freecodecamp.org/news/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012/
 
 ## Task 3 - Promises
